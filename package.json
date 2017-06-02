@@ -1,0 +1,39 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "dependencies": {
+    "gulp-concat": "*",
+    "gulp-install": "^1.1.0",
+    "gulp-livereload": "*",
+    "gulp-rename": "*",
+    "gulp-ruby-sass": "*",
+    "gulp-uglify": "*",
+    "gulp-watch": "*",
+    "map-stream": "*"
+  },
+  "description": "All files except package.json included in template.\r Follow all instructions for new projects:",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-util": "^3.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geerios95/TestGit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geerios95/TestGit/issues"
+  },
+  "homepage": "https://github.com/geerios95/TestGit#readme"
+}
